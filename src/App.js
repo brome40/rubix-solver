@@ -33,7 +33,7 @@ function App() {
       <header className="App-header">
         <h1>Rubik's Cube Project</h1>
         <p>Step 1: Basic 3D Shapes using React Three Fiber -DONE</p>
-        <p>Step 2: Add Face Colors</p>
+        <p>Step 2: Add Face Colors -DONE</p>
         <Cube />
       </header>
     </div>
